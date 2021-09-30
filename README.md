@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### Hulkaroy Here 👩🏻‍💻
 
 <!--
 **hulkaroyJouraboeva/hulkaroyJouraboeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### I am on the road to becoming a full stack web developer at Pursuit, a 1-year intensive program that trains individuals in software engineering. 
+
+###### I'm interested in this field because of the learning to solve problems by understanding them first, opening my mind to ways of approaching problems and their solutions. My long term goal is to get experience in the field, then start building applications.
+
+###### Some of my strengths are being able to work and get along with anyone when it comes to getting things done. I am also eager to learn, and get constructive criticism to improve my skills.
