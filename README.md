@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ###### Some of my strengths are being able to work and get along with anyone when it comes to getting things done. I am also eager to learn, and get constructive criticism to improve my skills.
 
-Check out my [Resume!](file:///Users/hulkaroyjouraboeva/Downloads/hulkaroys_resume.pdf)
+Check out my [Resume!](<iframe src="https://drive.google.com/file/d/10NA0KQ51FD0ApST2pfpUOAdD7tEwo1YM/preview" width="640" height="480" allow="autoplay"></iframe>)
