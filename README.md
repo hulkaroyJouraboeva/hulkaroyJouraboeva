@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏼
 #### Hulkaroy Here 👩🏻‍💻
 
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###### I am on the road to becoming a full stack web developer at Pursuit, a 1-year intensive program that trains individuals in software engineering. 
+###### I am a Full-Stack Software Engineer . 
 
 ###### I'm interested in this field because of the learning to solve problems by understanding them first, opening my mind to ways of approaching problems and their solutions. My long term goal is to get experience in the field, then start building applications.
 
